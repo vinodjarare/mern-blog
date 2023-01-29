@@ -15,7 +15,7 @@
 ### Running the Project
 
 1. Clone the repository
-   git clone https://github.com/[username]/eqaim-blog.git
+   git clone https://github.com/vinodjarare/mern-blog.git
 
 2. Navigate to the project directory
 3. Install the dependencies
